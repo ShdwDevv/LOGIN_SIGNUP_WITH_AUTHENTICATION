@@ -8,3 +8,6 @@ Who are you
 {{x}}
 {% endfor%}
 Template inheritance - create a base template and inherit from other
+
+Install gunicorn - pip install gunicorn
+Create Procfile  - touch Procfile
